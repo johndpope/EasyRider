@@ -1,0 +1,1 @@
+../../../../RideKitFramework/RideKit.framework/Versions/A/Headers/RKProfile.h

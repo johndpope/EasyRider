@@ -1,0 +1,10 @@
+PODS:
+  - RideKitFramework (1.0.3)
+
+DEPENDENCIES:
+  - RideKitFramework (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  RideKitFramework: 458d03638368c74693b1384d7ad25612d0f8cec7
+
+COCOAPODS: 0.39.0

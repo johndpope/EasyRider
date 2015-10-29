@@ -1,0 +1,6 @@
+framework module Pods_EasyRider {
+  umbrella header "Pods-EasyRider-umbrella.h"
+
+  export *
+  module * { export * }
+}
